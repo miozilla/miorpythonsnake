@@ -1,5 +1,5 @@
 # miorpythonsnake
-miorpythonsnake : Snake Game # Pygame
+miorpythonsnake : Snake Game # Pygame # Qwen
 
 
 ## CI/CD in Progress...
