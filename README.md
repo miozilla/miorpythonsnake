@@ -1,5 +1,5 @@
-# miorpythonsnake
-miorpythonsnake : Snake Game # Pygame # Qwen
+# miorpythonsnake 🐍🎮👸
+miorpythonsnake : Snake Game # Pygame # Qwen2
 
 
 ## Objective
